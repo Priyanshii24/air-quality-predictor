@@ -1,0 +1,13 @@
+city,temperature,pollution,last_temperature,last_pollution
+Ahmedabad,38,180,36,170
+Ahmedabad,40,210,38,180
+Ahmedabad,35,150,33,140
+Surat,33,130,31,120
+Surat,36,160,33,130
+Surat,34,145,32,138
+Vadodara,37,175,35,165
+Vadodara,39,200,37,175
+Vadodara,34,140,32,130
+Rajkot,32,120,30,110
+Rajkot,35,155,32,120
+Rajkot,33,135,31,125
