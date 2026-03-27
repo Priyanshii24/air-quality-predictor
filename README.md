@@ -20,7 +20,8 @@ An AI-based project that predicts air pollution levels using Machine Learning.
 - Predicts future pollution levels
 
 ## 📸 Output
-(Add your screenshots here)
+![Output1](img%201.jpeg)
+![Output2](img%202.jpeg)
 
 ## ▶️ How to Run
 1. Install libraries:
